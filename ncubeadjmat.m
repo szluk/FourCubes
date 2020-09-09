@@ -13,6 +13,7 @@ function [A vert]= ncubeadjmat(n, cod, kind)
 % email: szymon@patent.pl
 % History
 % v1:0 01.08.2020
+% 
 
 [A vert] = ncubedistmat(n, cod);
 
